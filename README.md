@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm Awais
 
-<!--
-**awaismalik07/awaismalik07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from FAST-NUCES 💻  
+Learning Go 🐹 | MERN 🌐 | Docker 🐳 | DevOps ☁️
 
-Here are some ideas to get you started:
+- 🔭 Currently building: Knife Bros & Mango Delivery Startup 🥭
+- 🌱 Learning: Microservices in Go
+- 🧠 Ask me about anything C++, Git, or backend related
+- 📫 Reach me: awaismalik07@gmail.com
+- ⚡ Fun fact: I once debugged a server crash with just a hunch and a log line!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Awais's GitHub stats](https://github-readme-stats.vercel.app/api?username=awaismalik07&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=awaismalik07&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
